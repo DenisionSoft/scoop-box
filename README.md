@@ -16,6 +16,7 @@ You can check the apps included [here](https://github.com/DenisionSoft/scoop-box
 | roundedtb-canary | A continuation of RoundedTB, a Windows taskbar customizer |
 | snp | VS Code code snippet generator |
 | temurin8u312 | JRE 8 version 8u312b07, the last supported by Forge for Minecraft 1.16.5 |
+| xcbr | Xbox Controller Button Remapperto remap Guide and Share buttons |
 
 ## How do I install these manifests?
 
